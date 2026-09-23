@@ -1,0 +1,28 @@
+# Configuração local
+.env
+.env.*
+!.env.example
+src/CLASSES/conexao.php
+
+# Bancos locais e dados de execução
+*.fdb
+*.FDB
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Delphi / RAD Studio
+*.dproj.local
+*.identcache
+*.dcu
+*.map
+*.stat
+__history/
+Win32/
+Win64/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini

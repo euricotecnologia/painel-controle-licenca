@@ -1,0 +1,3 @@
+TLockServer BITMAP "Source\\TLockServer.bmp"
+TLockClient BITMAP "Source\\TLockClient.bmp"
+TLockEmail BITMAP "Source\\TLockEmail.bmp"

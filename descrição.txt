@@ -1,0 +1,23 @@
+Plataforma de controle de licenças de software com código fonte.
+
+Controle as licenças de seus sistemas em única Plataforma WEB.
+
+*Controle de licença*
+Recursos:
+* Controle de Licença (Liberação e Bloqueio) tanto Online quanto Offline
+* Cadastro de Clientes
+* Cadastro de Revendas
+* Cadastro de Sistemas
+* Cadastro de usuários
+* Controle Financeiro 
+* Controle de quantidade de estação liberada por cliente
+* Inclusão de valores de licença individual
+* Controle de Revendas
+* Permissão de acesso onde Revendas somente podem ver seus clientes
+* Permissão total ao Admin
+* Clientes associado a Revendas
+
+Acompanha:
+* Codigo fontes plataforma web PHP
+* Banco de dados
+* Exemplo com codigo fontes
